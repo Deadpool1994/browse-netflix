@@ -3,7 +3,7 @@ import {render} from "react-dom";
 
 const Main = ()=>(
     <div>
-        <h1>This is something</h1>
+        <h1>This is something new.</h1>
     </div>
 );
 
